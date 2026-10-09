@@ -2,19 +2,14 @@
 
 # 👨‍💻 Arthur Coelho
 
-### Desenvolvedor Full Stack | Java • Spring Framework • APIs REST
+### Desenvolvedor Full Stack
 
 </div>
 
 ---
 
 ### 👋 Sobre mim
-
-Sou **desenvolvedor Full Stack com foco em Java**, especializado em **microsserviços e Spring Framework**. Tenho experiência no design e na implementação de **APIs REST**, além de trabalhar com bancos de dados relacionais, como **PostgreSQL e MySQL**, e NoSQL, como **MongoDB**.
-
-Aplico os princípios **SOLID** para desenvolver código limpo, modular e de fácil manutenção. Também utilizo **testes unitários e funcionais** para contribuir com a qualidade e a confiabilidade das aplicações.
-
-Tenho interesse em construir soluções eficientes, evoluir constantemente como desenvolvedor e colocar meus conhecimentos em prática em projetos reais.
+Sou **desenvolvedor Full Stack com foco em Java**, especializado em **microsserviços e Spring Framework**. Tenho experiência no desenvolvimento de **APIs REST** e no uso de bancos de dados relacionais (**PostgreSQL e MySQL**) e NoSQL (**MongoDB**). Aplico princípios **SOLID** e práticas de **testes unitários e funcionais** para criar soluções limpas, modulares e de fácil manutenção.
 
 ---
 
@@ -34,19 +29,6 @@ Tenho interesse em construir soluções eficientes, evoluir constantemente como 
 ### ⚙️ Outras ferramentas e conhecimentos
 
 `Spring Framework` · `Microsserviços` · `APIs REST` · `MySQL` · `MongoDB` · `SOLID` · `Testes unitários e funcionais`
-
----
-
-### 🚀 Projetos no GitHub
-
-| Projeto | Tecnologia principal |
-| --- | --- |
-| [**front_produtos**](https://github.com/arthurcoelho04/front_produtos) | JavaScript |
-| [**crud_go**](https://github.com/arthurcoelho04/crud_go) | Go |
-| [**usuario**](https://github.com/arthurcoelho04/usuario) | Java |
-| [**notificacao**](https://github.com/arthurcoelho04/notificacao) | Java |
-| [**agendador-tarefas**](https://github.com/arthurcoelho04/agendador-tarefas) | Java |
-| [**bff-agendador-tarefas**](https://github.com/arthurcoelho04/bff-agendador-tarefas) | Java |
 
 ---
 
