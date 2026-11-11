@@ -23,7 +23,6 @@ Sou **desenvolvedor Full Stack com foco em Java**, especializado em **microsserv
   <img alt="JavaScript" title="JavaScript" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="Go" title="Golang" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
   <img alt="PostgreSQL" title="PostgreSQL" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img alt="Swagger" title="Swagger" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
   <img alt="MongoDB" title="MongoDB" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img alt="Docker" title="Docker" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
