@@ -10,7 +10,10 @@
 ---
 
 ### 👋 Sobre mim
-Sou **desenvolvedor Full Stack com foco em Java**, especializado em **microsserviços e Spring Framework**. Tenho experiência no desenvolvimento de **APIs REST** e no uso de bancos de dados relacionais (**PostgreSQL e MySQL**) e NoSQL (**MongoDB**). Aplico princípios **SOLID** e práticas de **testes unitários e funcionais** para criar soluções limpas, modulares e de fácil manutenção.
+
+Sou **desenvolvedor Full Stack com foco em Java**, especializado em **microsserviços e Spring Framework**. Tenho experiência no desenvolvimento de **APIs REST** e no uso de bancos de dados relacionais (**PostgreSQL e MySQL**) e NoSQL (**MongoDB**).
+
+Aplico princípios **SOLID** e práticas de **testes unitários e funcionais** para criar soluções limpas, modulares e de fácil manutenção.
 
 ---
 
@@ -27,6 +30,8 @@ Sou **desenvolvedor Full Stack com foco em Java**, especializado em **microsserv
   <img alt="Docker" title="Docker" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
 
+---
+
 ### ⚙️ Outras ferramentas e conhecimentos
 
 `Spring Framework` · `Microsserviços` · `APIs REST` · `MySQL` · `MongoDB` · `SOLID` · `Testes unitários e funcionais` · `AWS`
@@ -37,7 +42,17 @@ Sou **desenvolvedor Full Stack com foco em Java**, especializado em **microsserv
 
 <div align="center">
 
-<img height="170" alt="Estatísticas do GitHub de Arthur Coelho" src="https://github-stats-extended.vercel.app/api?username=arthurcoelho04&show_icons=true&hide=stars&theme=tokyonight&locale=pt-br&hide_border=true" />
-<img height="170" alt="Linguagens mais utilizadas nos repositórios de Arthur Coelho" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arthurcoelho04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img
+    height="170"
+    alt="Estatísticas do GitHub de Arthur Coelho"
+    src="https://github-stats-extended.vercel.app/api?username=arthurcoelho04&show_icons=true&hide=stars&theme=tokyonight&locale=pt-br&hide_border=true&v=20261115"
+  />
+
+  <img
+    height="170"
+    alt="Linguagens mais utilizadas nos repositórios de Arthur Coelho"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=arthurcoelho04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=20261115"
+  />
 
 </div>
+
