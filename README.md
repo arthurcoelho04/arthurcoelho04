@@ -36,11 +36,15 @@ Sou **desenvolvedor Full Stack com foco em Java**, especializado em **microsserv
 
 ---
 
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-  <img height="145" alt="Estatísticas do GitHub de Arthur Coelho" src="https://github-stats-extended.vercel.app/api?username=arthurcoelho04&show_icons=true&hide=stars&theme=tokyonight&locale=pt-br&hide_border=true&v=20261115" /><img width="912" height="820" alt="image" src="https://github.com/user-attachments/assets/4473bfbf-78f6-49fa-99ea-43203bd9a13e" />
+  <img height="145" alt="Estatísticas do GitHub de Arthur Coelho" src="https://github-stats-extended.vercel.app/api?username=arthurcoelho04&show_icons=true&hide=stars&theme=tokyonight&locale=pt-br&hide_border=true&v=20261115" /><img height="145" alt="Linguagens mais utilizadas nos repositórios de Arthur Coelho" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arthurcoelho04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=20261115" />
+
+</div>
+
 
 
 
