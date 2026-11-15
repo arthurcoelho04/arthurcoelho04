@@ -40,13 +40,18 @@ Aplico princípios **SOLID** e práticas de **testes unitários e funcionais** p
 
 ### 📊 Estatísticas do GitHub
 
+
+### 📊 Estatísticas do GitHub
+
 <div align="center">
 
-  <img
-    height="170"
-    alt="Estatísticas do GitHub de Arthur Coelho"
-    src="https://github-stats-extended.vercel.app/api?username=arthurcoelho04&show_icons=true&hide=stars&theme=tokyonight&locale=pt-br&hide_border=true&v=20261115"
-  />
+  <img height="145" alt="Estatísticas do GitHub de Arthur Coelho" 
+    src="https://github-stats-extended.vercel.app/api?username=arthurcoelho04&show_icons=true&hide=stars&theme=tokyonight&locale=pt-br&hide_border=true&v=20261115" /><img 
+    height="145" alt="Linguagens mais utilizadas nos repositórios de Arthur Coelho" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=arthurcoelho04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=20261115" />
+
+</div>
+
 
   <img
     height="170"
